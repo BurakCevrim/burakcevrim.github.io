@@ -1,11 +1,9 @@
-# Data Scientist
+# Electronics and Communications Engineering Senior Student
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: ns3, Matlab, C/C++ 
 
-## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+## Education			        		
+- B.S., Electronics and Communications Engineering | Istanbul Technical University (_June 2025_)
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
