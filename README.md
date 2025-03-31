@@ -10,6 +10,10 @@
 - Integrated a stereo camera-based localization system using YOLO and machine learning models with Intel Realsense depth cameras.
 - Connected this system to a beamformer to create a 5G localization solution.
 
+**Internship at ITU THAL: Stereo Camera Localization**
+- Conducted localization using Gazebo and stereo cameras with YOLO and ML techniques.
+- Simulated realistic environments for testing localization algorithms.
+
 **Internship at NETAS: Analog Automatic Voltage Regulator**
 - Worked on a Automatic Analog Voltage Regulator design.
 - Examined and made corrections on schematics of the project.
@@ -42,6 +46,20 @@ outside. It is expectected to see a increase in bandwidth by decreasing the lowe
 frequency from 5.2 GHz to approximately 3.7 GHz. 
 
 ![antenna](assets/vivaldi_project.png)
+
+### Designing a Two-Stage CMOS Operational Amplifier 
+This report presents a design and analysis of a CMOS Operational Amplifier, based on a two
+stage topology. The attempt is targeted at estimating performance metrics of the amplifier in 
+terms of voltage gain, bandwidth, phase margin, and power consumption. LTspice simulations 
+have been utilized in an attempt to verify the design for optimum performance. Measured 
+parameters are also compared with the design specifications to check compliance.
+The end result of the project yields a voltage gain of 61.27 dB with a unity gain bandwidth of 383 MHz, 
+and a phase margin of 65°, shows that the amplifier functions well and aligns with the design goals. Its low power consumption of 167.2 µW 
+underscores its suitability for low-power analog applications. Although the design process 
+presented some challenges, the final outcomes demonstrate the effectiveness of the chosen 
+approach and confirm the amplifier's performance under the specified conditions. 
+
+![System Overview](/assets/bpsk_isac.jpg)
 
 
 
