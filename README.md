@@ -59,7 +59,7 @@ underscores its suitability for low-power analog applications. Although the desi
 presented some challenges, the final outcomes demonstrate the effectiveness of the chosen 
 approach and confirm the amplifier's performance under the specified conditions. 
 
-![System Overview](/assets/cmos_opamp.jpg)
+![System Overview](assets/cmos_opamp.png)
 
 
 
