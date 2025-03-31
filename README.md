@@ -1,6 +1,7 @@
 # Electronics and Communications Engineering Senior Student
 
-#### Technical Skills: ns3, Matlab, C/C++ 
+####  Software and Tools: HFSS, LTSpice, NS-3, Gazebo
+####  Programming Languages: MATLAB, C/C++, Python
 
 ## Education			        		
 - B.S., Electronics and Communications Engineering | Istanbul Technical University (_June 2025_)
