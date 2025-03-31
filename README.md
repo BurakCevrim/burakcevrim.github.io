@@ -23,7 +23,7 @@
 ### Implementation of Integrated Sensing and Communication (ISAC) Systems Using BPSK on SDR
 This study focuses on implementing Integrated Sensing and Communication (ISAC) systems using Binary Phase Shift Keying (BPSK) modulation on a Software Defined Radio (SDR) platform. The primary objectives include designing a robust system for simultaneous communication and ranging functionalities while addressing key challenges such as symbol timing recovery and synchronization in noisy environments.
 
-![System Overview](assets/cmos_opamp.png)
+![System Overview](assets/bpsk_isac.jpg)
 
 ### Vivaldi Antenna Design Implementation
 In this work, purposes and use areas of vivaldi antennas and antipodal vivaldi antennas has 
