@@ -49,7 +49,7 @@ frequency from 5.2 GHz to approximately 3.7 GHz.
 ![antenna](assets/vivaldi_project.png)
 
 ### Designing a Two-Stage CMOS Operational Amplifier 
-This report presents a design and analysis of a CMOS Operational Amplifier, based on a two
+This work presents a design and analysis of a CMOS Operational Amplifier, based on a two
 stage topology. The attempt is targeted at estimating performance metrics of the amplifier in 
 terms of voltage gain, bandwidth, phase margin, and power consumption. LTspice simulations 
 have been utilized in an attempt to verify the design for optimum performance. Measured 
